@@ -1,0 +1,12 @@
+{
+    "app": {
+        "name": "MyApp",
+        "version": "1.0.0",
+        "description": "An example app",
+        "database": {
+            "host": "localhost",
+            "port": 5432,
+            "name": "myapp_db"
+        }
+    }
+}
